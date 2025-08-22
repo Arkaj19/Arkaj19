@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arkajyoti Karmakar
 ===========================================================================================================================================
 
-FullStack Developer
+FrontEnd Developer
 -------------------
 
 Full-stack developer skilled in MERN stack, SQL building scalable, secure, and user-focused applications. Passionate about solving real-world problems through clean architecture and modern tech.
