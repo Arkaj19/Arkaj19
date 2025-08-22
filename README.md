@@ -8,7 +8,7 @@ Full-stack developer skilled in MERN stack, SQL building scalable, secure, and u
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [arkajyotikarmakar56@gmail.com](mailto:arkajyotikarmakar56@gmail.com)
-* 🧠  I'm currently learning NextJS, Android Dev
+* 🧠  I'm currently learning NextJS, Gen AI
 * 👥  I'm looking to collaborate on FullStack Projects
 
 <p align="left">
