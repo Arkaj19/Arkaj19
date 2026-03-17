@@ -9,7 +9,7 @@ Full-stack developer skilled in MERN stack, SQL building scalable, secure, and u
 * 🏆  Second Runners-Up in H2S Powered Google Agentic AI Day 2025 ->> Team Neural Drift
 * 🌍  I'm based in India
 * ✉️  You can contact me at [arkajyotikarmakar56@gmail.com](mailto:arkajyotikarmakar56@gmail.com)
-* 🧠  I'm currently learning NextJS, Gen AI
+* 🧠  I'm currently getting deep with Gen AI, Modern Product Architectures.
 * 👥  I'm looking to collaborate on FullStack Projects and Frontend Projects.
 
 <p align="left">
