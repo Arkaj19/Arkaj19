@@ -6,6 +6,7 @@ FrontEnd Developer
 
 Full-stack developer skilled in MERN stack, SQL building scalable, secure, and user-focused applications. Passionate about solving real-world problems through clean architecture and modern tech.
 
+* 🏆  Second Runners-Up in H2S Powered Google Agentic AI Day 2025 ->> Team Neural Drift
 * 🌍  I'm based in India
 * ✉️  You can contact me at [arkajyotikarmakar56@gmail.com](mailto:arkajyotikarmakar56@gmail.com)
 * 🧠  I'm currently learning NextJS, Gen AI
